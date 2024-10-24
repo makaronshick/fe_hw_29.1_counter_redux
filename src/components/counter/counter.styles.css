@@ -1,0 +1,13 @@
+.header {
+    padding: 15px;
+}
+
+h4 {
+    margin-left: 25px;
+}
+
+.counter_btn {
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid black;
+}
